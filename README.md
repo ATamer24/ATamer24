@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p> I'm a Computer science graduate and a handball player, Looking to improve my skills and collaborate on any project</p>
+<h4>Languages:</h4>
+<ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JavaScript<li>
+  <li>Php<li>
+  <li>Flutter<li>
+  <li>Python<li>
+  <li>Java<li>
+  <li>C++<li>
+</ul>
+<br>
+<h4>Interested in learning:</h4>
+<ul>
+  <li>React</li>
+  <li>Node.js</li>
+  <li>Angular.js<li>
+</ul>
