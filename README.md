@@ -33,3 +33,10 @@ Here are some ideas to get you started:
   <li>Node.js</li>
   <li>Angular.js</li>
 </ul>
+<p>- 📫 How to reach me : 
+  <ul>
+    <li><a href="https://www.linkedin.com/in/atamer91/">LinkedIn</a></li>
+    <li>Email: ATamer91@hotmail.com</li>
+  </ul>
+</p>
+
