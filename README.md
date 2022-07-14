@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
-  <li>JavaScript<li>
-  <li>Php<li>
-  <li>Flutter<li>
-  <li>Python<li>
-  <li>Java<li>
-  <li>C++<li>
+  <li>JavaScript</li>
+  <li>Php</li>
+  <li>Flutter</li>
+  <li>Python</li>
+  <li>Java</li>
+  <li>C++</li>
 </ul>
 <br>
 <h4>Interested in learning:</h4>
 <ul>
   <li>React</li>
   <li>Node.js</li>
-  <li>Angular.js<li>
+  <li>Angular.js</li>
 </ul>
